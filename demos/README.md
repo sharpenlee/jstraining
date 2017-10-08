@@ -1096,7 +1096,7 @@ $ npm test
 $ git clone git@github.com:[your_username]/travis-ci-demo.git
 
 // Windows
-$ git clone https://github.com:[your_username]/travis-ci-demo
+$ git clone https://github.com/[your_username]/travis-ci-demo
 ```
 
 （4）使用你的 Github 账户，登录 [Travis CI](https://travis-ci.org/auth) 的首页。然后，访问 [Profile](https://travis-ci.org/profile) 页面，选定`travis-ci-demo`代码库运行自动构建。
